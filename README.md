@@ -13,7 +13,7 @@ Plann.er é um projeto desenvolvido durante a 16ª edição do NLW Journey, ofer
 ## Tecnologias Utilizadas
 
 - **Java**
-- **Spring Web**
+- **Spring Boot**
 - **Lombok**
 - **Dev Tools**
 - **Flyway**
